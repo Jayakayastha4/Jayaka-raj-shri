@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jayakayastha4
+- 👋 Hi, I’m @Jaya raj shri
 - 👀 I’m interested in backend development...
 - 🌱 I’m currently learning machne learning..
 
